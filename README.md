@@ -88,7 +88,7 @@ We'll use MySQL to understand how customers access and interact with the site, a
 <br>
 <img width="292" alt="traffic_conversion2" src="https://user-images.githubusercontent.com/66598945/206400972-2057f071-f24d-4b77-ba04-b92448329b55.png">  
   <br>
-  <p>Insights: Conversion rate is 2.92%, which is less than 4%, hence we're overspending on gsearch nonbrand campaign and have to reduce bids. To monitor impact of bid reduction for the campaign.</p>
+  <p>Insights: Conversion rate is 2.88%, which is less than 4%, hence we're overspending on gsearch nonbrand campaign and have to reduce bids. To monitor impact of bid reduction for the campaign.</p>
   
   # Bid Optimization & Trend Analysis
   <p>Analysing for bid optimization is understanding the value of various segments of paid traffic to optimize marketing budget.</p>
